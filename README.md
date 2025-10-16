@@ -8,8 +8,8 @@
 ## 笔记软件
 | 名称 | 简介 | 网址 |
 |--|--|--|
-|[obsidian](https://obsidian.md/)|Sharpen your thinking.|https://obsidian.md/|
-|[notion](https://www.notion.com/)|Notion AI 工作空间，让你的团队和 AI 代理在这里携手共进。|https://www.notion.com/|
+|[Obsidian](https://obsidian.md/)|Sharpen your thinking.|https://obsidian.md/|
+|[Notion](https://www.notion.com/)|Notion AI 工作空间，让你的团队和 AI 代理在这里携手共进。|https://www.notion.com/|
 
 ## 终端软件
 | 名称 | 简介 | 网址 |
