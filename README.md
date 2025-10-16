@@ -48,7 +48,7 @@
 |[抖音](https://www.douyin.com/)|抖音-记录美好生活|https://www.douyin.com/|
 
 # 精品网站
-## 练习
 | 名称 | 简介 | 网址 |
 |--|--|--|
 |[键位练习](https://www.keybr.com/)|好用的键位练习网站|https://www.keybr.com/|
+|[MirrorZ Help](https://help.mirrors.cernet.edu.cn/)|持续更新的开源软件镜像整合站点|https://help.mirrors.cernet.edu.cn/|
