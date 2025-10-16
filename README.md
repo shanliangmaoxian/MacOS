@@ -54,4 +54,4 @@
 |[MirrorZ](https://help.mirrors.cernet.edu.cn/)|持续更新的开源软件镜像整合站点|https://help.mirrors.cernet.edu.cn/|
 |[iFixit](https://zh.ifixit.com/)|免费维修手册|https://zh.ifixit.com/|
 |[磁力熊](https://www.cilixiong.org/)|观影网站|https://www.cilixiong.org/|
-|[搜片](htthttps://soupian.pro/)|视频搜索网站|https://soupian.pro/|
+|[搜片](https://soupian.pro/)|视频搜索网站|https://soupian.pro/|
