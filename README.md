@@ -44,6 +44,7 @@
 | 名称 | 简介 | 网址 |
 |--|--|--|
 |[Steam](https://store.steampowered.com/)|Welcome to Steam|https://store.steampowered.com/|
+|[抖音](https://www.douyin.com/)|抖音-记录美好生活|https://www.douyin.com/|
 
 # 精品网站
 ## 练习
