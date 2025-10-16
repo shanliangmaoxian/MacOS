@@ -28,6 +28,7 @@
 | 名称 | 简介 | 网址 |
 |--|--|--|
 |[LocalSend](https://localsend.org/)|将文件分享到附近的设备|https://localsend.org/|
+|[FileZilla](https://filezilla-project.org/)|快速、可信赖的FTP客户端|https://filezilla-project.org/|
 
 ## 大模型
 | 名称 | 简介 | 网址 |
