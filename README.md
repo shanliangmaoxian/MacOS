@@ -40,6 +40,8 @@
 |--|--|--|
 |[阿里云盘](https://www.alipan.com/)|安全、高效、开放|https://www.alipan.com/|
 |[百度网盘](https://pan.baidu.com/)|记录每一份热爱|https://pan.baidu.com/|
+|[夸克网盘](https://pan.quark.cn/)|电脑高效拍档，一键存爽快看|https://pan.quark.cn/|
+|[城通网盘](https://www.ctfile.com/)|打包您的一切云盘需求|https://www.ctfile.com/|
 
 ## 休闲娱乐
 | 名称 | 简介 | 网址 |
