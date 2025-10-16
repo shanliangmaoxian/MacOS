@@ -51,6 +51,7 @@
 | 名称 | 简介 | 网址 |
 |--|--|--|
 |[键位练习](https://www.keybr.com/)|好用的键位练习网站|https://www.keybr.com/|
-|[MirrorZ Help](https://help.mirrors.cernet.edu.cn/)|持续更新的开源软件镜像整合站点|https://help.mirrors.cernet.edu.cn/|
+|[MirrorZ](https://help.mirrors.cernet.edu.cn/)|持续更新的开源软件镜像整合站点|https://help.mirrors.cernet.edu.cn/|
 |[iFixit](https://zh.ifixit.com/)|免费维修手册|https://zh.ifixit.com/|
 |[磁力熊](https://www.cilixiong.org/)|观影网站|https://www.cilixiong.org/|
+|[搜片](htthttps://soupian.pro/)|视频搜索网站|https://soupian.pro/|
