@@ -6,4 +6,4 @@
 | 名称 | 简介 | 网址 |
 |--|--|--|
 |[微信](https://weixin.qq.com/)|微信，是一个生活方式|https://weixin.qq.com/|
-|[QQ]([https://im.qq.com/index/)|QQ-轻松做自己|https://im.qq.com/index/|
+|[QQ](https://im.qq.com/index/)|QQ-轻松做自己|https://im.qq.com/index/|
