@@ -43,7 +43,7 @@
 ## 休闲娱乐
 | 名称 | 简介 | 网址 |
 |--|--|--|
-|[steam](https://store.steampowered.com/)|Welcome to Steam|https://store.steampowered.com/|
+|[Steam](https://store.steampowered.com/)|Welcome to Steam|https://store.steampowered.com/|
 
 # 精品网站
 ## 练习
